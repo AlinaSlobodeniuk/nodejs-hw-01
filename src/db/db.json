@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "6aa85d53-bf02-4de3-a918-4dc507fb3173",
+    "name": "Mr. Carlos Wisozk",
+    "phone": "(874) 208-6147 x66001",
+    "email": "Leslie.McLaughlin73@yahoo.com",
+    "job": "Chief Program Executive"
+  },
+  {
+    "id": "6f802ac1-4e97-4074-bed8-a1d8d9b8b0cc",
+    "name": "Ben Sanford",
+    "phone": "(315) 242-8678 x983",
+    "email": "Devon34@gmail.com",
+    "job": "Central Tactics Technician"
+  }
+]
